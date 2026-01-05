@@ -1,0 +1,7 @@
+{
+  "name": "MRC Survey Invoice Pro",
+  "description": "A professional geospatial invoicing platform for the Minerals Regulation Commission, featuring KML-based site visualization, DSA calculations, and high-fidelity PDF/JPG export.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
